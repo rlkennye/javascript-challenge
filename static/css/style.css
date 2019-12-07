@@ -113,9 +113,7 @@ ul #filters{
     width: 100%;
     padding: 8px;
 	color: purple;
-   /* color: #8e979f; */
-	
-    outline: none;
+	outline: none;
   }
   
   #table-area th {
@@ -209,8 +207,7 @@ ul #filters{
     #table-area tr td:first-child {
       font-size: 1.8em;
       font-weight: bold;
-      /* background: #1b3146; */
-	  background: purple;
+      background: purple;
     }
   
     #table-area tr td:last-child {
@@ -223,8 +220,8 @@ ul #filters{
       height: 1px;
       margin-top: 20px;
       content: " ";
-      background: aliceblue;
-
+	  background: purple;
+      
     }
   
     #table-area td {
@@ -247,7 +244,7 @@ ul #filters{
     }
   
     .hero h1 {
-      animation: smaller-title 1.2s forwards linear;
+      animation: smaller-title 2.2s forwards linear;
     }
   }
   
